@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    border: 8px solid black;
+    border-radius: 20%;
+    height: 145px;
+    width: 145px;
+    margin: 6px;
+}
+
+.btn_container {
+    display: flex;
+    justify-content: center;
+}
+
+.pink {
+    background-color: lightcoral;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.whiteFlash {
+    background-color: white;
+}
+
+.blackFlash {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
